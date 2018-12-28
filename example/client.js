@@ -10,7 +10,7 @@ const src = new stream.Readable({
     },
 });
 
-const emitter = new Emitter();
+const emitter = new Emitter('udp');
 src.pipe(emitter);
 
 let counter = 0;
@@ -20,7 +20,7 @@ setInterval(() => {
         description: 'bar',
         value: counter,
         timestamp: Date.now() / 1000,
-    }
+    };
     src.push(msg);
 
     counter += 1;
