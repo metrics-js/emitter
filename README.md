@@ -1,3 +1,3 @@
-# process
+# @metrics/emitter
 
-Module for collecting different process and system metrics and providing them as a metric stream
+Emitter for pushing a metric stream over misc network protocols to a daemon.
