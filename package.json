@@ -1,6 +1,6 @@
 {
   "name": "@metrics/emitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Emitter for pushing a metric stream over misc network protocols to a daemon.",
   "main": "lib/emitter.js",
   "scripts": {
