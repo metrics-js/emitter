@@ -23,7 +23,7 @@
     "readable-stream": "^3.4.0"
   },
   "devDependencies": {
-    "@metrics/client": "^2.4.1",
+    "@metrics/client": "^2.5.0",
     "eslint": "^6.5.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
