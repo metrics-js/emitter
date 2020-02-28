@@ -2,10 +2,9 @@
 
 Emitter for sending metrics over a network to a daemon.
 
-[![Dependencies](https://img.shields.io/david/metrics-js/emitter.svg?style=flat-square)](https://david-dm.org/metrics-js/emitter)
-[![Build Status](http://img.shields.io/travis/metrics-js/emitter/master.svg?style=flat-square)](https://travis-ci.org/metrics-js/emitter)
-[![Greenkeeper badge](https://badges.greenkeeper.io/metrics-js/emitter.svg?style=flat-square)](https://greenkeeper.io/)
-[![Known Vulnerabilities](https://snyk.io/test/github/metrics-js/emitter/badge.svg?targetFile=package.json&style=flat-square)](https://snyk.io/test/github/metrics-js/emitter?targetFile=package.json)
+[![Dependencies](https://img.shields.io/david/metrics-js/emitter.svg)](https://david-dm.org/metrics-js/emitter)
+[![GitHub Actions status](https://github.com/metrics-js/emitter/workflows/Run%20Lint%20and%20Tests/badge.svg)](https://github.com/metrics-js/emitter/actions?query=workflow%3A%22Run+Lint+and+Tests%22)
+[![Known Vulnerabilities](https://snyk.io/test/github/metrics-js/emitter/badge.svg?targetFile=package.json)](https://snyk.io/test/github/metrics-js/emitter?targetFile=package.json)
 
 ## Installation
 
