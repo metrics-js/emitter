@@ -1,8 +1,8 @@
-'use strict';
+"use strict";
 
-const tap = require('tap');
+const tap = require("tap");
 // const stream = require('readable-stream');
-const Emitter = require('../');
+const Emitter = require("../");
 /*
 const destObjectStream = (done) => {
     const arr = [];
@@ -26,8 +26,8 @@ const destObjectStream = (done) => {
  * Constructor
  */
 
-tap.test('Constructor() - object type - should be MetricsEmitter', (t) => {
-    const emitter = new Emitter();
-    t.equal(Object.prototype.toString.call(emitter), '[object MetricsEmitter]');
-    t.end();
+tap.test("Constructor() - object type - should be MetricsEmitter", (t) => {
+	const emitter = new Emitter();
+	t.equal(Object.prototype.toString.call(emitter), "[object MetricsEmitter]");
+	t.end();
 });
