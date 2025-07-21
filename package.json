@@ -23,7 +23,7 @@
     "readable-stream": "^3.4.0"
   },
   "devDependencies": {
-    "@metrics/client": "2.5.2",
+    "@metrics/client": "2.5.5",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/commit-analyzer": "13.0.1",
     "@semantic-release/git": "10.0.1",
