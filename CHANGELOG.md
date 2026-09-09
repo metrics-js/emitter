@@ -1,3 +1,10 @@
+## [0.0.4](https://github.com/metrics-js/emitter/compare/v0.0.3...v0.0.4) (2026-09-09)
+
+
+### Bug Fixes
+
+* add typescript types ([#107](https://github.com/metrics-js/emitter/issues/107)) ([2295eba](https://github.com/metrics-js/emitter/commit/2295eba1a9034ec88921449825568079d74c1d85))
+
 ## [0.0.3](https://github.com/metrics-js/emitter/compare/v0.0.2...v0.0.3) (2026-01-09)
 
 
